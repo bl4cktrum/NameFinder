@@ -1,5 +1,6 @@
-This program extracts names from the given web page and prints them to the console.<br>
-The program takes a URL as an argument
+# Name Finder
+
+This program extracts names from the given web page and prints them to the console using [Jsoup](https://jsoup.org/) to html parse and [Apache OpenNLP](https://opennlp.apache.org/) for natural language process
 
 Usage:<br>
 ```
@@ -21,3 +22,4 @@ Drew Farris
 Peter Thygesen
 Tom Morton
 ```
+URL in example: [check](https://opennlp.apache.org/books-tutorials-and-talks.html)
