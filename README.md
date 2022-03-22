@@ -4,7 +4,6 @@ The program takes a URL as an argument
 Usage:
 
 mvn clean package
-
 java -jar target\bim207hw2.jar {URL}
 
 Example:	
